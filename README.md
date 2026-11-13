@@ -4,6 +4,6 @@ I’m a full-stack developer. I build online stores, product catalogs and the sy
 
 ## On GitHub
 
-[**PerfumeMatcher**](https://github.com/belforzedse/PerfumeMatcher) is a fragrance recommendation kiosk I built for a perfume shop. It has a Next.js interface, a Django catalog and a matching engine that can run without an external AI service.
+[**PerfumeMatcher**](https://github.com/belforzedse/PerfumeMatcher) is a fragrance recommendation kiosk I built for a perfume shop. It has a Next.js interface, a Django catalog and a matching engine that can run without an external AI service. [English kiosk preview and setup](https://github.com/belforzedse/PerfumeMatcher/tree/english-kiosk).
 
 For project inquiries, [email me](mailto:yazdannaderi@hotmail.com).
